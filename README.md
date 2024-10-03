@@ -19,7 +19,7 @@ Vitalify is a comprehensive health monitoring dashboard that allows users to tra
 Make sure you have the following installed:
 - Node.js (v14 or higher)
 - npm or yarn
-- 
+  
 ## Getting Started
 To get a local copy up and running, follow these simple steps:
 
