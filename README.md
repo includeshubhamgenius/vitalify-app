@@ -15,6 +15,11 @@ Vitalify is a comprehensive health monitoring dashboard that allows users to tra
 - Tailwind CSS
 - React Router
 
+## Prerequisites
+Make sure you have the following installed:
+- Node.js (v14 or higher)
+- npm or yarn
+- 
 ## Getting Started
 To get a local copy up and running, follow these simple steps:
 
@@ -22,8 +27,11 @@ To get a local copy up and running, follow these simple steps:
    ```bash
    git clone https://github.com/your-username/Vitalify.git
 2. Navigate to the project directory:
+   ```bash
    cd Vitalify
-3. Install the required dependencies:
+4. Install the required dependencies:
+   ```bash
    npm install
-4. Start the application:
+6. Start the application:
+   ```bash
    npm start
